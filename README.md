@@ -1,4 +1,7 @@
+
 # ACM-sem-3
+
+## Name - Kodali viswanath(DSAI)
 
 #### Q1
 
