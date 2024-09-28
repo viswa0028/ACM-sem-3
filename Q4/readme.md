@@ -12,4 +12,5 @@ I used the basic methods from the streamlit like
   - text_input
   - rerun
   - write
+
 There was a configuration of api and then the response is given through the markdown format in the front end.
