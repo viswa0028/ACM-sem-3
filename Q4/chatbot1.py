@@ -3,7 +3,7 @@ import streamlit as st #importing necessry libraries
 import google.generativeai as genai
 
 # configuring the API
-genai.configure(api_key="AIzaSyAg1aAE0qGMXLnYN7F9wiYlRf4GJ_cZYxQ") #intializing the API key 
+genai.configure(api_key="AIzaSyAg1aAE0qGMXLn*********lRf4GJ_cZYxQ") #intializing the API key 
 genrative_config = {"temperature": 0.9, "top_p": 1, "top_k": 1} #setting the temp,topk and topp for more creative results
 
 # Initialize the model
